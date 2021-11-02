@@ -1,3 +1,58 @@
+<!-- Please update value in the {}  -->
+
+<h1 align="center">{Your project name}</h1>
+
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/f4NJ53rcfgrP6sBMD2jt">
+      Challenge
+    </a>
+  </h3>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [How to use](#how-to-use)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+This project is a wikipedia of cats, you can see the description of many cat breeds. In the main page you will see a dropdown menu that you can select the breed and see the detail, for responsive, it is a button that will open a sidebar in the top, and you can select the breed.
+There is a section to see the top 10 of cats, in this case only will show the first 10 cats from the API response.
+And finally, the benefits section, in it will show any benefits if you decide to have a cat.
+
+### Built With
+
+- [React](https://reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [Styled-Components](https://styled-components.com/)
+- [React-Icons](https://react-icons.github.io/react-icons/)
+- [Semantic UI React](https://react.semantic-ui.com/)
+
+## Features
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/f4NJ53rcfgrP6sBMD2jt) was to build an application to complete the given user stories.
+
+## How To Use ----------------->
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

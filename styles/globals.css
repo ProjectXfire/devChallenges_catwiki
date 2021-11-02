@@ -1,14 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Mystery+Quest&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dekko&display=swap");
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Dekko", cursive;
+  min-width: 0 !important;
 }
 
 a {
   color: inherit;
   text-decoration: none;
+}
+
+button {
+  font-family: "Dekko", cursive;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+  font-family: "Dekko", cursive;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
 }
 
 * {
